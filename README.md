@@ -4,4 +4,5 @@ This repository contains the implementation of a parallel prime number finder ut
 The main source code is poprawny.c
 To launch the program on Linux run the following lines:
 > gcc -fopenmp poprawny.c -o main
+
 > ./main 
